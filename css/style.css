@@ -1,0 +1,32 @@
+.label {
+    margin-bottom: 5px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+/* Styling for Phones 
+@media (max-width: 767px) {
+    .container {
+        margin-right: 0;
+        width: 100%;
+    }
+    
+    .row {
+        width: 100%;
+    }
+
+    .span12 {
+        width: 91%;
+    }
+}
+
+ Styling for Tablets / Snapped Windows 
+@media (max-width: 979px) and (min-width: 768px) {
+    .span12 {
+        width: 91%;
+        margin-right: 20px;
+
+    }
+}*/
